@@ -357,7 +357,7 @@ network.to(device)
 # trainEnd = time.time()
 # print('total training time', int(trainEnd-trainStt),' sec')
 
-# torch.save(network.state_dict(),'nodeEdgeMP_Cyl_NoNoise_sin.pt')
+# torch.save(network.state_dict(),'nodeEdge_sin_Cyl_NoNoise.pt')
 
 
 
