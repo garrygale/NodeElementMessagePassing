@@ -356,7 +356,7 @@ def train(network,batchSize,learningRate,nEpoch,lrDecay=1.):
 # trainEnd = time.time()
 # print('total training time', int(trainEnd-trainStt),' sec')
 
-# torch.save(network.state_dict(),'nodeElemMPalt_Cyl_NoNoise.pt')
+# torch.save(network.state_dict(),'nodeElem_A_Cyl_NoNoise.pt')
 
 
 # %%
