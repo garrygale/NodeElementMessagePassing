@@ -25,6 +25,8 @@ random
 ## Data sets
 The data sets and trained state dicts are available at this [repo](https://drive.google.com/drive/folders/17sLVTbcDP5Y5-x4FcHumTbaBtR5xyxNj?usp=sharing).
 
+The data sets provided in the repo are the coarsened flow data that are needed for the nerual network. The original flow data from CFD simulations are available on request.
+
 ## How to run
 Each individual .py code file corresponds to one experiment reported in the paper.
 
